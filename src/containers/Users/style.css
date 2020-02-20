@@ -1,0 +1,11 @@
+.users {
+  width: 100%;
+  height: calc(100vh - 100px);
+}
+.users main {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */
